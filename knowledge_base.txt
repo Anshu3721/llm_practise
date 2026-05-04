@@ -1,0 +1,21 @@
+Customer Support Knowledge Base
+
+Refund Policy:
+Customers can request a refund within 30 days of purchase.
+To initiate a refund, customers must provide their order ID and reason for return.
+Refunds are processed within 5-7 business days.
+
+Shipping Policy:
+Standard shipping takes 5-7 business days.
+Express shipping takes 1-2 business days and costs an additional $15.
+Free shipping is available on orders above $50.
+
+Account Issues:
+To reset your password, click on forgot password on the login page.
+If your account is locked, contact support at support@company.com.
+Account verification emails are sent within 5 minutes of registration.
+
+Product Issues:
+If you receive a damaged product, take a photo and contact support within 48 hours.
+Warranty claims can be filed within 1 year of purchase.
+Technical support is available Monday to Friday 9am to 6pm.
