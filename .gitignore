@@ -13,6 +13,7 @@ venv/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+test.py
 
 # VS Code workspace settings
 .vscode/
